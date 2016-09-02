@@ -1,0 +1,3 @@
+https://msdn.microsoft.com/ru-ru/library/bb386386.aspx (Создание и доступ к службе WCF)
+https://msdn.microsoft.com/ru-ru/library/ms733766.aspx (как разместить службу WCF в IIS)
+https://msdn.microsoft.com/ru-ru/library/ms733766(v=vs.100).aspx  (как разместить службу WCF в IIS [.Net 4])
